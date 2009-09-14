@@ -1,0 +1,5 @@
+D:\OpenSource\OurMsg\GoogleCodeJam\GoogleCodeJam\bin\Debug\GoogleCodeJam.exe
+D:\OpenSource\OurMsg\GoogleCodeJam\GoogleCodeJam\bin\Debug\GoogleCodeJam.pdb
+D:\OpenSource\OurMsg\GoogleCodeJam\GoogleCodeJam\obj\Debug\ResolveAssemblyReference.cache
+D:\OpenSource\OurMsg\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.exe
+D:\OpenSource\OurMsg\GoogleCodeJam\GoogleCodeJam\obj\Debug\GoogleCodeJam.pdb
